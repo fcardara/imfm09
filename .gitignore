@@ -1,0 +1,8 @@
+data/
+tuner_logs
+.ipynb_checkpoints/
+**/__pycache__/
+models/*.h5
+data.zip
+
+*.npy
